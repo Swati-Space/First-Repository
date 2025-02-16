@@ -1,4 +1,4 @@
 # First-Repository
 This is my first repository.
 <br />
-Author - Swati Kumari
+Author - Swati Kumari (Coder)
